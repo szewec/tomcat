@@ -1,4 +1,4 @@
-FROM tomcat:7.0-jre8-sofficebase
+FROM szewec/tomcat:7.0-jre8-sofficebase
 
 ENV LIBREOFFICE_VERSION=5.3.7 \
     LIBREOFFICE_VERSION_MINOR=5.3 \

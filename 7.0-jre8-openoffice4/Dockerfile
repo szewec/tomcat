@@ -1,4 +1,4 @@
-FROM tomcat:7.0-jre8-sofficebase
+FROM szewec/tomcat:7.0-jre8-sofficebase
 
 ENV OPENOFFICE_VERSION=4.1.4 \
     OPENOFFICE_VERSION_MAJOR=4 \
